@@ -1,1 +1,3 @@
-# c28-pirate-version-sound-and-game-over
+# PiratesInvasionStage-6
+
+adding sounds and score
